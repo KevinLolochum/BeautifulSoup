@@ -1,4 +1,4 @@
-# Websrapping with Beautiful Soup
+# Websrapping with BeautifulSoup
 Beautifulsoup is a useful python tool for collecting data from webpages that have HTTP formats.
 
 This repository contains a jupyter notebook showing how data can be collected from the web as well as well how such data can be cleaned in python.
